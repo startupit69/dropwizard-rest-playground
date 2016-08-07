@@ -11,4 +11,4 @@ java -jar target/dropwizard-playground-1.0-SNAPSHOT.jar server example.yml
 
 ## License
 
-This personal learning playground and it is available under MIT License.
+This is my personal learning playground and it is available under MIT License.
